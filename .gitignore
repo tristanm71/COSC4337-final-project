@@ -1,3 +1,5 @@
 data
 .venv
-/bio_clinicalbert/
+bio_clinicalbert/model.safetensors
+bio_clinicalbert/
+.venv/
